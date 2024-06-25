@@ -1,0 +1,8 @@
+.meio{
+    display: flex;
+    flex-direction: row;
+    
+}
+.card{
+    margin: 12px;
+}
