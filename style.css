@@ -1,8 +1,28 @@
 .meio{
     display: flex;
     flex-direction: row;
+    justify-content: center;
     
 }
 .card{
     margin: 12px;
+}
+.container-fluid{
+    background-color: #2735D4;
+}
+.navbar navbar-expand-lg bg-body-tertiary{
+    background-color: #2735D4;
+
+}
+cle{
+    display: flex;
+    justify-content: center;
+}
+.card{
+    border-radius: 50px;
+}
+.card-img-top{
+    width: 50vw;
+    height: 50vh;
+    border-radius: 50px;
 }
